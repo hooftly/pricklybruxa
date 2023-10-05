@@ -1674,3 +1674,8 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+.responsive {
+	max-width: 100%;
+	height: auto;
+}
